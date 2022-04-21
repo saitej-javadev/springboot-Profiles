@@ -1,0 +1,4 @@
+
+for vm arguments profile configuaration:
+----------------------------------------
+-Dspring.profiles.active=prod
